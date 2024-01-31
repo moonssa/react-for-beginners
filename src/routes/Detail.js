@@ -30,7 +30,6 @@ function Detail() {
             ))}
           </ul>
           <img src={movie.medium_cover_image} />
-
           <div>
             <span style={{ display: "block" }}> {`Year : ${movie.year}`} </span>
             <span style={{ display: "block" }}>

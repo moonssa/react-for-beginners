@@ -1,0 +1,8 @@
+.movie {
+  background-color: white;
+  display: grid;
+  padding: 20px;
+  grid-template-columns: minmax(150px, 1fr) 1fr;
+  color: inherit;
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25);
+}
